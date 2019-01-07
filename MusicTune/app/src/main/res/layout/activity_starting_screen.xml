@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="#4CAF50"
+    tools:context=".StartingScreenActivity">
+
+    <TextView
+        android:id="@+id/textView_Name"
+        style="@style/MusicAppName"
+        android:text="@string/nameOfApp"/>
+
+    <ImageView
+        android:id="@+id/imageView_MusicPic"
+        android:src="@drawable/musicpic"
+        style="@style/Image"/>
+
+
+</RelativeLayout>

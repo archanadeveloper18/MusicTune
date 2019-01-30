@@ -1,7 +1,7 @@
 # MusicTune
 MusicTune App have list of songs, with play and pause button.
 
-MEETS SPECIFICATIONS
+## MEETS SPECIFICATIONS
 
 ->The app’s structure is suitable for a music player app. A similarly structured app which focuses on audiobooks, podcasts, or other audio media is also acceptable.
 
@@ -19,7 +19,7 @@ MEETS SPECIFICATIONS
 
 
 
-Functionality
+## Functionality
 
 ->The code runs without errors
 
